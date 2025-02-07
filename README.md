@@ -34,4 +34,3 @@
   - Machine Learning, Computer Vision, Time Series Analysis, Chatbot Development
   - Data Analysis, Web Scraping, Django, DevOps (learning in progress)
 
--
