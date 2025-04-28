@@ -26,8 +26,9 @@
 
 - 🏅 Certifications:
   
-  - Linux Foundation Certified in Ethics in Data Science and AI
   - Specialized Training in Machine Learning Engineering from Symbiosis Skills and Professional University
+  - Linux Foundation Certified in Ethics in Data Science and AI
+ 
 
 - 🛠️ Technologies & Tools:
   
